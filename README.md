@@ -14,14 +14,12 @@ Visualization: Skilled in creating compelling visualizations using tools like Ta
 
 Machine Learning: Familiar with building predictive models and applying machine learning algorithms.
 
-
 📈 Interests
 Python & Scripting: Developing scripts to automate tasks and streamline data processes.
 
 Data Engineering: Eager to deepen my knowledge in data engineering, including data pipelines and ETL processes.
 
 Problem Solving: Enjoy tackling challenging problems and finding data-driven solutions.​
-
 
 🛠️ Technologies I Use
 Programming & Scripting: Python, SQL, Bash
