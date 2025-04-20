@@ -26,6 +26,8 @@ Data Engineering: Learning and building data pipelines, working with large-scale
 
 Problem Solving: Tackling challenges with a logical, data-first approach.
 
+Continuous Learning: Always exploring new technologies and techniques to level up.
+
 ⚙️ Technologies I Work With
 Python • SQL • Bash • Apache Spark • Power Query • Power BI • Tableau
 
