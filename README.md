@@ -1,5 +1,5 @@
 👋 Hi, I'm Wiktor Bielski
-🎓 Data Analyst | Gdańsk, Poland
+🎓 Data Analyst
 
 I'm a passionate data analyst with a strong foundation in data science and analytics. Currently, I am honing my skills and contributing to data-driven projects, where I focus on delivering actionable insights and supporting business decisions through data.
 
@@ -14,12 +14,14 @@ Visualization: Skilled in creating compelling visualizations using tools like Ta
 
 Machine Learning: Familiar with building predictive models and applying machine learning algorithms.
 
+
 📈 Interests
 Python & Scripting: Developing scripts to automate tasks and streamline data processes.
 
 Data Engineering: Eager to deepen my knowledge in data engineering, including data pipelines and ETL processes.
 
 Problem Solving: Enjoy tackling challenging problems and finding data-driven solutions.​
+
 
 🛠️ Technologies I Use
 Programming & Scripting: Python, SQL, Bash
