@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wiktor Bielski  
-⚙️ **Data and Analytics Engineer** | Building Scalable Pipelines, Reliable Data Systems, and Actionable Insights
+⚙️ **Data and Analytics Engineer**
 
-Welcome to my GitHub! I'm Wiktor, a data and analytics engineer with strong data engineering capabilities, designing and delivering scalable analytical solutions that enable data-driven decision making across the organization. My work spans **ETL pipeline development**, **distributed data processing** in PySpark and Azure Databricks, **interactive dashboarding**, and **end-to-end workflow automation** — with a focus on integrating data from diverse sources and turning it into trusted, decision-ready outputs.
+Welcome to my GitHub! I'm Wiktor, a data and analytics engineer, designing and delivering scalable analytical solutions that enable data-driven decision making across the organization. My work spans **ETL pipeline development**, **distributed data processing** in PySpark and Azure Databricks, **interactive dashboarding**, and **end-to-end workflow automation** — with a focus on integrating data from diverse sources and turning it into trusted, decision-ready outputs.
 
 ---
 
