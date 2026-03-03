@@ -1,30 +1,20 @@
 # 👋 Hi, I'm Wiktor Bielski  
-🎓 **Data Analyst** | Passionate about Python, Data, and Innovation
+⚙️ **Data and Analytics Engineer** | Building Scalable Pipelines, Reliable Data Systems, and Actionable Insights
 
-Welcome to my GitHub! I'm Wiktor, a data analyst driven by curiosity, creativity, and a deep enthusiasm for turning data into impactful insights. My work spans **data exploration**, **automation**, **dashboarding**, and early-stage **machine learning**. I'm especially passionate about **Python scripting**, building efficient **data workflows**, and diving deeper into **ETL pipelines** and **distributed processing**.
+Welcome to my GitHub! I'm Wiktor, a data and analytics engineer with strong data engineering capabilities, designing and delivering scalable analytical solutions that enable data-driven decision making across the organization. My work spans **ETL pipeline development**, **distributed data processing** in PySpark and Azure Databricks, **interactive dashboarding**, and **end-to-end workflow automation** — with a focus on integrating data from diverse sources and turning it into trusted, decision-ready outputs.
 
 ---
-
 
 ## 🧰 Core Skills & Tools
 
-- **Data Analysis**: Strong analytical mindset with experience exploring, cleaning, and modeling data  
-- **Programming & Scripting**: Python, SQL, Bash – creating scripts to automate and optimize repetitive tasks  
-- **Data Visualization**: Designing insightful dashboards using **Power BI** and **Tableau** to tell compelling stories  
-- **Collaboration**: Team-oriented with experience working in agile, cross-functional environments  
-
----
-
-## 📌 Areas of Interest
-
-- **Python & Automation**: Writing clean, reusable code to streamline data processes  
-- **Data Engineering**: Building data pipelines, working with large-scale data tools like Apache Spark  
-- **Problem Solving**: Tackling challenges with a logical, data-first approach  
-- **Continuous Learning**: Always exploring new technologies and techniques to level up  
+- **Data Engineering**: Building and maintaining data pipelines and ETL processes in **PySpark** and **Azure Databricks**, integrating data from warehouses, relational and columnar databases, and **Azure Data Lake**
+- **Programming & Scripting**: Python (pandas, NumPy, matplotlib), SQL, Spark SQL — writing custom scripts to enhance analytical depth, automation, and processing performance
+- **Analytics & Visualization**: Creating interactive dashboards and analytical reports in **Power BI** and **Power Query** to transform data into actionable insights
+- **Workflow Automation**: Implementing end-to-end automation in **Power Automate** to streamline analytical processes and increase productivity
+- **Collaboration**: Experienced in agile, cross-functional environments — bridging engineering and business stakeholder needs
 
 ---
 
 ## ⚙️ Technologies I Work With
 
-`Python` • `SQL` • `Bash` • `Apache Spark` • `Power Query` • `Power BI` • `Tableau`
-
+`PySpark` • `Apache Spark` • `Azure Databricks` • `Azure Data Lake` • `Kafka` • `Docker` • `Python` • `pandas` • `NumPy` • `matplotlib` • `SQL` • `Bash` • `Git` • `Power BI` • `Power Query` • `Power Automate` • `Looker Studio` • `Visual Studio Code` • `BPMN`
