@@ -17,4 +17,6 @@ Welcome to my GitHub! I'm Wiktor, a data and analytics engineer with strong data
 
 ## ⚙️ Technologies I Work With
 
-`PySpark` • `Apache Spark` • `Azure Databricks` • `Azure Data Lake` • `Kafka` • `Docker` • `Python` • `pandas` • `NumPy` • `matplotlib` • `SQL` • `Bash` • `Git` • `Power BI` • `Power Query` • `Power Automate` • `Looker Studio` • `Visual Studio Code` • `BPMN`
+`PySpark` • `Apache Spark` • `Azure Databricks` • `Azure Data Lake` • `Azure` • `GCP` • `BigQuery`
+• `Kafka` • `Docker` • `Python` • `pandas` • `NumPy` • `matplotlib` • `SQL` • `Bash` • `Git` • `Power BI`
+• `Power Query` • `Power Automate` • `Looker Studio` • `Visual Studio Code` • `BPMN`
